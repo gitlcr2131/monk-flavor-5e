@@ -18,8 +18,8 @@
         "./src/monkFlavor.js",
         "./config/config.js"
     ],
-    "url": "NA",
-    "manifest": "NA",
-    "download": "NA",
+    "url": "https://github.com/gitlcr2131/monk-flavor-5e",
+    "manifest": "https://raw.githubusercontent.com/gitlcr2131/monk-flavor-5e/master/module.json",
+    "download": "https://github.com/gitlcr2131/monk-flavor-5e/archive/master.zip",
     "minimumCoreVersion": "0.4.4"
 }
