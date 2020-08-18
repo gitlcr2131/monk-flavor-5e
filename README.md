@@ -4,7 +4,7 @@ Have you ever wondered, what crazy words should my monk announce when attacking 
 
 ## Features
 Yelling.
-More than 1500 difference incredible moves.
+More than 1500 different incredible moves.
 
 ##Installation 
 To install Monk Flavor, do the following 
