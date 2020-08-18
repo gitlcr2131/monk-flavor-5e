@@ -8,7 +8,7 @@ More than 1500 different incredible moves.
 
 ##Installation 
 To install Monk Flavor, do the following 
-1. [Download the zip file]()
+1. [Download the zip file](https://github.com/gitlcr2131/monk-flavor-5e/archive/master.zip)
 2. Extract the folder to your 'public/modules' in Foundry VTT.
 3. Reload your application.
 
