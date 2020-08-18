@@ -14,7 +14,7 @@ To install Monk Flavor, do the following
 
 Auto-Installation Instructions:
 
-1. Copy this link: 
+1. Copy this link: https://raw.githubusercontent.com/gitlcr2131/monk-flavor-5e/master/module.json
 2. Open FoundryVTT and navigate to Add-On Modules
 3. Select "Install Module" and paste link into textbox.
 4. Click "Install" and watch as the mod is installed
