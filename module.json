@@ -1,0 +1,25 @@
+{
+    "name": "monkflavor",
+    "title": "Monk Flavor",
+    "description": "Roll fun sounding monk attacks!",
+    "version": "0.0.1",
+    "author": "Leonard Robinson",
+    "systems" : ["dnd5e"],
+    "packs": [
+        {
+            "name": "monkFlavor",
+            "label": "Monk Flavor",
+            "path": "db/monkFlavor.db",
+            "module": "monk-flavor",
+            "entity": "RollTable"
+        }
+    ],
+    "esmodules": [
+        "./src/monkFlavor.js",
+        "./config/config.js"
+    ],
+    "url": "NA",
+    "manifest": "NA",
+    "download": "NA",
+    "minimumCoreVersion": "0.4.4"
+}
